@@ -1,0 +1,1 @@
+﻿这是一个batch文件，用于备份hosts文件。运行这个batch会把hosts文件备份到同目录下的 hosts_backup文件夹下，最后打开hosts文件。
